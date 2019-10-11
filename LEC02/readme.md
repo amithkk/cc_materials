@@ -1,5 +1,16 @@
-# TODO
+# Strings and Sliding Window
 
-to do to do to do to do to do 
+**Taught items**
+ - Basics of String based CP Problems
+ - Sliding Window and its applications
 
-![to dooo to do do](https://i.imgur.com/ALwL7Ei.jpg)
+ **Problems and Hands On**
+  - Sliding Window examples from CodeChef Practice
+  - MCO16105
+  - PARTCNT
+
+Provide feedback on this session [here](https://forms.gle/NKsygdQgqbg48WJX6)
+
+**Attendance Statistics**: 27 Chapter Members
+
+**Timing**: 4:15 to 6:00 [Afterhours Class]
